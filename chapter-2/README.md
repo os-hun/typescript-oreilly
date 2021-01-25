@@ -23,7 +23,7 @@ $ ./node_modules/.bin/tslint --init
 $ ./node_modules/.bin/tsc  
 or
 # 上記のコマンドをpackage.jsonに追加
-$ npm buid
+$ npm build
 
 # コンパイルしたファイルを実行
 $ node ./dist/index.js
