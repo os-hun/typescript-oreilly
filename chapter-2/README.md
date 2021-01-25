@@ -10,8 +10,8 @@ $ mkdir chapter-2
 # init
 $ npm init or npm init -y
 
-# install
-$ npm install
+# install package 
+$ npm install --save-dev typescript tslint @types/node
 
 # create tsconfig
 $ ./node_modules/.bin/tsc --init

@@ -10,7 +10,8 @@ $ mkdir sample-1
 
 # 移動＆インストール
 $ cd sample-1
-$ yarn install
+$ npm init -y
+$ npm install --save-dev typescript tslint @types/node
 ```
 
 ### tree
