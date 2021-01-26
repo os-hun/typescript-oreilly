@@ -15,7 +15,7 @@ $ npm install --save-dev typescript tslint @types/node
 
 # package.jsonの共通の中身
 {
-  "name": "chapter-3",
+  "name": "[nameはディレクトリ名]",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -39,4 +39,6 @@ $ npm install --save-dev typescript tslint @types/node
 ### tree
 
 作成したディレクトリのリンク (ディレクトリを作成したら追加する)
+- [Chapter2](https://github.com/os-hun/typescript-oreilly/tree/main/chapter-2)
+- [Chapter3](https://github.com/os-hun/typescript-oreilly/tree/main/chapter-3)
 
