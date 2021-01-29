@@ -26,14 +26,20 @@ console.log('unknown_b =>', unknown_b)
 let bool_a = true
 let bool_b = false
 
+console.log('bool_a =>', bool_a)
+console.log('bool_b =>', bool_b)
+
 // 値が特定のbooleanであることを推論
 const bool_c = true
+console.log('bool_c =>', bool_c)
 
 // booleanであることを明示的にする
 let bool_d: boolean = true
+console.log('bool_d =>', bool_d)
 
 // リテラル型
 let bool_e: true = true
+console.log('bool_e =>', bool_e)
 
 // number
 
