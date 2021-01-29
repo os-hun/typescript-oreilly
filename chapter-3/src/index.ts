@@ -21,3 +21,31 @@ if (typeof unknown_a === 'number') {
 }
 console.log('unknown_b =>', unknown_b)
 
+// boolean
+// booleanであることを推論
+let bool_a = true
+let bool_b = false
+
+// 値が特定のbooleanであることを推論
+const bool_c = true
+
+// booleanであることを明示的にする
+let bool_d: boolean = true
+
+// リテラル型
+let bool_e: true = true
+
+// number
+
+
+// bigint
+
+
+// string
+
+
+// symbol
+
+
+// object
+
