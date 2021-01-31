@@ -41,12 +41,6 @@ console.log('bool_d =>', bool_d)
 let bool_e: true = true
 console.log('bool_e =>', bool_e)
 
-// number
-
-
-// bigint
-
-
 // string
 
 
